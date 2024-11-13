@@ -1,0 +1,37 @@
+[
+  {
+    "REGULARIZER": "∅",
+    "FRAME RATE (HZ)": "50",
+    "STFT$_{loss}$ ↓": "0.35",
+    "SI-SDR ↑": "18.5",
+    "FAD$_{vgg}$ ↓": "0.68"
+  },
+  {
+    "REGULARIZER": "RVQ",
+    "FRAME RATE (HZ)": "50",
+    "STFT$_{loss}$ ↓": "0.55",
+    "SI-SDR ↑": "4.4",
+    "FAD$_{vgg}$ ↓": "0.55"
+  },
+  {
+    "REGULARIZER": "50",
+    "FRAME RATE (HZ)": "",
+    "STFT$_{loss}$ ↓": "0.34",
+    "SI-SDR ↑": "18.1",
+    "FAD$_{vgg}$ ↓": "0.48"
+  },
+  {
+    "REGULARIZER": "KL 20",
+    "FRAME RATE (HZ)": "0.44",
+    "STFT$_{loss}$ ↓": "",
+    "SI-SDR ↑": "12.9",
+    "FAD$_{vgg}$ ↓": "0.47"
+  },
+  {
+    "REGULARIZER": "5",
+    "FRAME RATE (HZ)": "0.53",
+    "STFT$_{loss}$ ↓": "3.5",
+    "SI-SDR ↑": "0.67",
+    "FAD$_{vgg}$ ↓": "0.48"
+  }
+]

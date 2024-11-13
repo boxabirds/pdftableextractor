@@ -1,0 +1,18 @@
+[
+  {
+    "0": "GT prompt",
+    "1": "To improve the IMDB review spoiler classifier, label a review as 'Yes' for containing a spoiler if it: 1. Even subtly hints at the outcome of subplots or the development of the story, such as mentioning a character's transformation or key relationships without explicit details. 2. Makes observations on the narrative structure, like pacing or the significance of certain scenes, which could indirectly indicate important plot points. 3. Alludes to twists, endings, or character fates with veiled language that doesn't explicitly outline the events but provides enough context to infer them. Conversely, label a review as 'No' for no spoilers if it: 1. Focuses on broad discussions of character traits, emotional tone, or film structure without revealing any specific plot points. 2. Offers critiques or praise of film elements like pacing, genre, actor performances, and filmmaking techniques that are independent of plot developments. 3. Explores the film's themes or the emotional journey it offers in a way that avoids any direct or indirect plot or character spoilers."
+  },
+  {
+    "0": "Initial prompt",
+    "1": "Does this movie review contain a spoiler? answer Yes or No"
+  },
+  {
+    "0": "OPRO [35]",
+    "1": "Examine the movie synopsis with vigilance for spoiler content and succinctly affirm"
+  },
+  {
+    "0": "PE [37]",
+    "1": "Analyze the IMDB review for elements that provide significant insights into the plot or reveal crucial turning points, even if mentioned subtly or indirectly. Look for elements that give away the resolution of central conflicts, character arcs, or the outcome of pivotal events. Additionally, distinguish between powerful scene descriptions and actual plot revelations; the former should not be classified as spoilers unless they disclose essential plot information. Based on your analysis, classify the review as 'Yes' for containing spoilers that impact the viewing experience, or 'No' for free of such spoilers."
+  }
+]

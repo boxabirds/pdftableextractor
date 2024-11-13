@@ -1,0 +1,122 @@
+[
+  {
+    "0": "You press << E >> and then type << black >> . The payoff for this combination would be -98 points.",
+    "1": ""
+  },
+  {
+    "0": "You press << H >> and then type << black >> . The payoff for this combination would be 32 points.",
+    "1": ""
+  },
+  {
+    "0": "You press << H >> and then type << stop >> . A maroon ball is chosen, and you earn -85 points.",
+    "1": ""
+  },
+  {
+    "0": "A new round begins.",
+    "1": ""
+  },
+  {
+    "0": "You press << N >>",
+    "1": ""
+  },
+  {
+    "0": "and then type << black >> . The payoff for this combination",
+    "1": ""
+  },
+  {
+    "0": "would be -108 points.",
+    "1": ""
+  },
+  {
+    "0": "be -222 points.",
+    "1": ""
+  },
+  {
+    "0": "You press << S >> and then type << black >> . The payoff for this combination would",
+    "1": ""
+  },
+  {
+    "0": "You press << K >> and then type << stop >> . A black ball is chosen, and you earn -90 points.",
+    "1": ""
+  },
+  {
+    "0": "A new round begins.",
+    "1": ""
+  },
+  {
+    "0": "You press << E >> and then type << red >> . The payoff for this combination would",
+    "1": ""
+  },
+  {
+    "0": "be -158 points.",
+    "1": ""
+  },
+  {
+    "0": "You press << Q >> and then type << red >> . The payoff for this combination would",
+    "1": ""
+  },
+  {
+    "0": "be 138 points.",
+    "1": ""
+  },
+  {
+    "0": "You press << N >> and then type << red >> . The payoff for this combination would",
+    "1": ""
+  },
+  {
+    "0": "be 171 points.",
+    "1": ""
+  },
+  {
+    "0": "You press << S >> and then type << red >>",
+    "1": ""
+  },
+  {
+    "0": "be -197 points.",
+    "1": ""
+  },
+  {
+    "0": "You press << N >> and then type << stop >> . A red ball is chosen, and you earn 171 points.",
+    "1": "You press << N >> and then type << stop >> . A red ball is chosen, and you earn 171 points."
+  },
+  {
+    "0": "There are 1 pink balls, 38 red balls, 25 black balls, and 36 maroon balls.",
+    "1": ""
+  },
+  {
+    "0": "You press << N >> and then type << red >> . The payoff for this combination would",
+    "1": ""
+  },
+  {
+    "0": "be -124 points.",
+    "1": ""
+  },
+  {
+    "0": "You press << S >>",
+    "1": "You press << S >>"
+  },
+  {
+    "0": "be -114 points.",
+    "1": "be -114 points."
+  },
+  {
+    "0": "You press << H >> and then type << stop >> . A black ball is chosen, and you earn 338 points.",
+    "1": ""
+  },
+  {
+    "0": "A new round begins.",
+    "1": ""
+  },
+  {
+    "0": "There are 37 pink balls, 44 red balls, 17 black balls, and 2 maroon balls.",
+    "1": "There are 37 pink balls, 44 red balls, 17 black balls, and 2 maroon balls."
+  },
+  {
+    "0": "You press << Q >> and then type << red >> . The payoff for this combination would",
+    "1": "You press << Q >> and then type << red >> . The payoff for this combination would"
+  },
+  {
+    "0": ". The payoff for this combination would",
+    "1": ". The payoff for this combination would"
+  }
+]

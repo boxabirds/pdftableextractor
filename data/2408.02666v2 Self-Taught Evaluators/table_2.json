@@ -1,0 +1,38 @@
+[
+  {
+    "Model": "Llama-3-70B-Instruct (seed)",
+    "Agreement with Human": "77.8"
+  },
+  {
+    "Model": "Self-Taught Evaluator, trained on synthetic data only",
+    "Agreement with Human": "Self-Taught Evaluator, trained on synthetic data only"
+  },
+  {
+    "Model": "Iteration 1",
+    "Agreement with Human": "79.0"
+  },
+  {
+    "Model": "Iteration 2",
+    "Agreement with Human": "78.7"
+  },
+  {
+    "Model": "Iteration 3",
+    "Agreement with Human": "78.9"
+  },
+  {
+    "Model": "Iteration 4",
+    "Agreement with Human": "77.5"
+  },
+  {
+    "Model": "Iteration 5",
+    "Agreement with Human": "78.9"
+  },
+  {
+    "Model": "w/ majority voting using 32 samples",
+    "Agreement with Human": "79.5"
+  },
+  {
+    "Model": "Other SoTA LLM-as-a-Judge baseline models GPT4-0125",
+    "Agreement with Human": "79.1"
+  }
+]

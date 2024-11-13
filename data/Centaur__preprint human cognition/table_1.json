@@ -1,0 +1,50 @@
+[
+  {
+    "Criterion": "Behave as an (almost) arbitrary function of the environment",
+    "Fulfilled by Centaur": "✓"
+  },
+  {
+    "Criterion": "Operate in real time",
+    "Fulfilled by Centaur": "✓"
+  },
+  {
+    "Criterion": "Exhibit rational, that is, effective adaptive behavior",
+    "Fulfilled by Centaur": "✓"
+  },
+  {
+    "Criterion": "Use vast amounts of knowledge about the environment",
+    "Fulfilled by Centaur": "✓"
+  },
+  {
+    "Criterion": "Behave robustly in the face of error, the unexpected, and the unknown",
+    "Fulfilled by Centaur": "✓"
+  },
+  {
+    "Criterion": "Integrate diverse knowledge",
+    "Fulfilled by Centaur": "✓"
+  },
+  {
+    "Criterion": "Use (natural) language",
+    "Fulfilled by Centaur": "✓"
+  },
+  {
+    "Criterion": "Exhibit self-awareness and a sense of self",
+    "Fulfilled by Centaur": "·"
+  },
+  {
+    "Criterion": "Learn from its environment",
+    "Fulfilled by Centaur": "✓"
+  },
+  {
+    "Criterion": "Acquire capabilities through development",
+    "Fulfilled by Centaur": "✗"
+  },
+  {
+    "Criterion": "Arise through evolution",
+    "Fulfilled by Centaur": "✗"
+  },
+  {
+    "Criterion": "Be realizable within the brain",
+    "Fulfilled by Centaur": "✓"
+  }
+]

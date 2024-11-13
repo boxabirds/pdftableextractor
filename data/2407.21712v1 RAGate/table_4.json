@@ -1,0 +1,292 @@
+[
+  {
+    "Augmentation Variants": "No-Aug",
+    "# Augs": "0",
+    "BLEU": "9.38",
+    "ROUGE-1": "0.4111",
+    "ROUGE-2": "0.2246",
+    "ROUGE-L": "0.3780",
+    "BERTScore": "0.8105",
+    "Confidence": "9.3425"
+  },
+  {
+    "Augmentation Variants": "Augment BERT Ranker Retrieved Knowledge",
+    "# Augs": "Augment BERT Ranker Retrieved Knowledge",
+    "BLEU": "Augment BERT Ranker Retrieved Knowledge",
+    "ROUGE-1": "Augment BERT Ranker Retrieved Knowledge",
+    "ROUGE-2": "Augment BERT Ranker Retrieved Knowledge",
+    "ROUGE-L": "Augment BERT Ranker Retrieved Knowledge",
+    "BERTScore": "Augment BERT Ranker Retrieved Knowledge",
+    "Confidence": "Augment BERT Ranker Retrieved Knowledge"
+  },
+  {
+    "Augmentation Variants": "RAGate-Llama",
+    "# Augs": "230",
+    "BLEU": "10.45",
+    "ROUGE-1": "0.4165",
+    "ROUGE-2": "0.2273",
+    "ROUGE-L": "0.3825",
+    "BERTScore": "0.8144",
+    "Confidence": "9.3374"
+  },
+  {
+    "Augmentation Variants": "RAGate-MHA",
+    "# Augs": "787",
+    "BLEU": "12.14",
+    "ROUGE-1": "0.4227",
+    "ROUGE-2": "0.2318",
+    "ROUGE-L": "0.3882",
+    "BERTScore": "0.8192",
+    "Confidence": "9.3083"
+  },
+  {
+    "Augmentation Variants": "Random-Aug",
+    "# Augs": "230",
+    "BLEU": "9.53",
+    "ROUGE-1": "0.4119",
+    "ROUGE-2": "0.2250",
+    "ROUGE-L": "0.3784",
+    "BERTScore": "0.8110",
+    "Confidence": "9.2984"
+  },
+  {
+    "Augmentation Variants": "Random-Aug",
+    "# Augs": "787",
+    "BLEU": "10.01",
+    "ROUGE-1": "0.4138",
+    "ROUGE-2": "0.2265",
+    "ROUGE-L": "0.3795",
+    "BERTScore": "0.8126",
+    "Confidence": "9.1877"
+  },
+  {
+    "Augmentation Variants": "Human-label",
+    "# Augs": "631",
+    "BLEU": "11.66",
+    "ROUGE-1": "0.4198",
+    "ROUGE-2": "0.2297",
+    "ROUGE-L": "0.3856",
+    "BERTScore": "0.8176",
+    "Confidence": "9.2550"
+  },
+  {
+    "Augmentation Variants": "Augment-All",
+    "# Augs": "4964",
+    "BLEU": "16.08",
+    "ROUGE-1": "0.4301",
+    "ROUGE-2": "0.2364",
+    "ROUGE-L": "0.3927",
+    "BERTScore": "0.8258",
+    "Confidence": "8.3677"
+  },
+  {
+    "Augmentation Variants": "Augment TF-IDF Ranker Retrieved Knowledge",
+    "# Augs": "Augment TF-IDF Ranker Retrieved Knowledge",
+    "BLEU": "Augment TF-IDF Ranker Retrieved Knowledge",
+    "ROUGE-1": "Augment TF-IDF Ranker Retrieved Knowledge",
+    "ROUGE-2": "Augment TF-IDF Ranker Retrieved Knowledge",
+    "ROUGE-L": "Augment TF-IDF Ranker Retrieved Knowledge",
+    "BERTScore": "Augment TF-IDF Ranker Retrieved Knowledge",
+    "Confidence": "Augment TF-IDF Ranker Retrieved Knowledge"
+  },
+  {
+    "Augmentation Variants": "RAGate-Llama",
+    "# Augs": "230",
+    "BLEU": "10.52",
+    "ROUGE-1": "0.4165",
+    "ROUGE-2": "0.2273",
+    "ROUGE-L": "0.3826",
+    "BERTScore": "0.8144",
+    "Confidence": "9.3418"
+  },
+  {
+    "Augmentation Variants": "RAGate-MHA",
+    "# Augs": "787",
+    "BLEU": "12.11",
+    "ROUGE-1": "0.4233",
+    "ROUGE-2": "0.2319",
+    "ROUGE-L": "0.3889",
+    "BERTScore": "0.8193",
+    "Confidence": "9.3058"
+  },
+  {
+    "Augmentation Variants": "Random-Aug",
+    "# Augs": "230",
+    "BLEU": "9.47",
+    "ROUGE-1": "0.4118",
+    "ROUGE-2": "0.2251",
+    "ROUGE-L": "0.3783",
+    "BERTScore": "0.8110",
+    "Confidence": "9.3006"
+  },
+  {
+    "Augmentation Variants": "Random-Aug",
+    "# Augs": "787",
+    "BLEU": "9.93",
+    "ROUGE-1": "0.4136",
+    "ROUGE-2": "0.2259",
+    "ROUGE-L": "0.3793",
+    "BERTScore": "0.8125",
+    "Confidence": "9.1942"
+  },
+  {
+    "Augmentation Variants": "Human-label",
+    "# Augs": "631",
+    "BLEU": "11.60",
+    "ROUGE-1": "0.4198",
+    "ROUGE-2": "0.2293",
+    "ROUGE-L": "0.3854",
+    "BERTScore": "0.8175",
+    "Confidence": "9.2639"
+  },
+  {
+    "Augmentation Variants": "Augment-All",
+    "# Augs": "4964",
+    "BLEU": "15.76",
+    "ROUGE-1": "0.4289",
+    "ROUGE-2": "0.2345",
+    "ROUGE-L": "0.3914",
+    "BERTScore": "0.8256",
+    "Confidence": "8.4188"
+  },
+  {
+    "Augmentation Variants": "Augment Rank-1 Relevant Knowledge",
+    "# Augs": "Augment Rank-1 Relevant Knowledge",
+    "BLEU": "Augment Rank-1 Relevant Knowledge",
+    "ROUGE-1": "Augment Rank-1 Relevant Knowledge",
+    "ROUGE-2": "Augment Rank-1 Relevant Knowledge",
+    "ROUGE-L": "Augment Rank-1 Relevant Knowledge",
+    "BERTScore": "Augment Rank-1 Relevant Knowledge",
+    "Confidence": "Augment Rank-1 Relevant Knowledge"
+  },
+  {
+    "Augmentation Variants": "RAGate-Llama",
+    "# Augs": "230",
+    "BLEU": "10.54",
+    "ROUGE-1": "0.4162",
+    "ROUGE-2": "0.2271",
+    "ROUGE-L": "0.3822",
+    "BERTScore": "0.8142",
+    "Confidence": "9.3642"
+  },
+  {
+    "Augmentation Variants": "RAGate-MHA",
+    "# Augs": "787",
+    "BLEU": "11.99",
+    "ROUGE-1": "0.4227",
+    "ROUGE-2": "0.2316",
+    "ROUGE-L": "0.3883",
+    "BERTScore": "0.8191",
+    "Confidence": "9.3774"
+  },
+  {
+    "Augmentation Variants": "Random-Aug",
+    "# Augs": "230",
+    "BLEU": "9.51",
+    "ROUGE-1": "0.4117",
+    "ROUGE-2": "0.2250",
+    "ROUGE-L": "0.3784",
+    "BERTScore": "0.8110",
+    "Confidence": "9.3328"
+  },
+  {
+    "Augmentation Variants": "Random-Aug",
+    "# Augs": "787",
+    "BLEU": "10.01",
+    "ROUGE-1": "0.4140",
+    "ROUGE-2": "0.2267",
+    "ROUGE-L": "0.3800",
+    "BERTScore": "0.8127",
+    "Confidence": "9.2982"
+  },
+  {
+    "Augmentation Variants": "Human-label",
+    "# Augs": "631",
+    "BLEU": "11.52",
+    "ROUGE-1": "0.4189",
+    "ROUGE-2": "0.2289",
+    "ROUGE-L": "0.3846",
+    "BERTScore": "0.8170",
+    "Confidence": "9.3218"
+  },
+  {
+    "Augmentation Variants": "Augment-All",
+    "# Augs": "4964",
+    "BLEU": "16.05",
+    "ROUGE-1": "0.4308",
+    "ROUGE-2": "0.2365",
+    "ROUGE-L": "0.3944",
+    "BERTScore": "0.8259",
+    "Confidence": "9.0655"
+  },
+  {
+    "Augmentation Variants": "Augment Rank-5 Relevant Knowledge",
+    "# Augs": "Augment Rank-5 Relevant Knowledge",
+    "BLEU": "Augment Rank-5 Relevant Knowledge",
+    "ROUGE-1": "Augment Rank-5 Relevant Knowledge",
+    "ROUGE-2": "Augment Rank-5 Relevant Knowledge",
+    "ROUGE-L": "Augment Rank-5 Relevant Knowledge",
+    "BERTScore": "Augment Rank-5 Relevant Knowledge",
+    "Confidence": "Augment Rank-5 Relevant Knowledge"
+  },
+  {
+    "Augmentation Variants": "RAGate-Llama",
+    "# Augs": "230",
+    "BLEU": "10.47",
+    "ROUGE-1": "0.4161",
+    "ROUGE-2": "0.2272",
+    "ROUGE-L": "0.3823",
+    "BERTScore": "0.8142",
+    "Confidence": "9.3592"
+  },
+  {
+    "Augmentation Variants": "RAGate-MHA",
+    "# Augs": "787",
+    "BLEU": "12.18",
+    "ROUGE-1": "0.4224",
+    "ROUGE-2": "0.2314",
+    "ROUGE-L": "0.3883",
+    "BERTScore": "0.8192",
+    "Confidence": "9.3704"
+  },
+  {
+    "Augmentation Variants": "Random-Aug",
+    "# Augs": "230",
+    "BLEU": "9.52",
+    "ROUGE-1": "0.4118",
+    "ROUGE-2": "0.2252",
+    "ROUGE-L": "0.3785",
+    "BERTScore": "0.8110",
+    "Confidence": "9.3315"
+  },
+  {
+    "Augmentation Variants": "Random-Aug",
+    "# Augs": "787",
+    "BLEU": "10.01",
+    "ROUGE-1": "0.4135",
+    "ROUGE-2": "0.2263",
+    "ROUGE-L": "0.3794",
+    "BERTScore": "0.8127",
+    "Confidence": "9.2961"
+  },
+  {
+    "Augmentation Variants": "Human-label",
+    "# Augs": "631",
+    "BLEU": "11.58",
+    "ROUGE-1": "0.4186",
+    "ROUGE-2": "0.2287",
+    "ROUGE-L": "0.3845",
+    "BERTScore": "0.8170",
+    "Confidence": "9.3210"
+  },
+  {
+    "Augmentation Variants": "Augment-All",
+    "# Augs": "4964",
+    "BLEU": "15.97",
+    "ROUGE-1": "0.4290",
+    "ROUGE-2": "0.2349",
+    "ROUGE-L": "0.3927",
+    "BERTScore": "0.8256",
+    "Confidence": "9.0604"
+  }
+]

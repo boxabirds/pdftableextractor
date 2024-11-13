@@ -1,0 +1,26 @@
+[
+  {
+    "Model.": "Llama3",
+    "No. of Abbrev. in Question.1": "70%",
+    "No. of Abbrev. in Question.2": "100%",
+    "No. of Abbrev. in Question.3": "90%",
+    "No. of Abbrev. in Question.4": "90%",
+    "No. of Abbrev. in Question.5": "100%"
+  },
+  {
+    "Model.": "Mistral",
+    "No. of Abbrev. in Question.1": "100%",
+    "No. of Abbrev. in Question.2": "100%",
+    "No. of Abbrev. in Question.3": "100%",
+    "No. of Abbrev. in Question.4": "70%",
+    "No. of Abbrev. in Question.5": "80%"
+  },
+  {
+    "Model.": "Shisa",
+    "No. of Abbrev. in Question.1": "50%",
+    "No. of Abbrev. in Question.2": "80%",
+    "No. of Abbrev. in Question.3": "60%",
+    "No. of Abbrev. in Question.4": "80%",
+    "No. of Abbrev. in Question.5": "100%"
+  }
+]

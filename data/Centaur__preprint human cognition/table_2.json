@@ -1,0 +1,242 @@
+[
+  {
+    "Experiment": "Shepard categorization",
+    "Centaur": "0.2315",
+    "Llama": "0.1695",
+    "Cognitive model": "0.0765"
+  },
+  {
+    "Experiment": "Drifting four-armed bandit",
+    "Centaur": "0.4896",
+    "Llama": "0.3622",
+    "Cognitive model": "0.3225"
+  },
+  {
+    "Experiment": "N-back",
+    "Centaur": "0.4282",
+    "Llama": "0.2484",
+    "Cognitive model": "0.1651"
+  },
+  {
+    "Experiment": "Digit span",
+    "Centaur": "0.8431",
+    "Llama": "0.8120",
+    "Cognitive model": "0.7388"
+  },
+  {
+    "Experiment": "Go/no-go",
+    "Centaur": "1.0000",
+    "Llama": "0.9910",
+    "Cognitive model": "0.8908"
+  },
+  {
+    "Experiment": "Recent probes",
+    "Centaur": "0.6274",
+    "Llama": "0.5026",
+    "Cognitive model": "0.4420"
+  },
+  {
+    "Experiment": "Horizon task",
+    "Centaur": "0.4464",
+    "Llama": "0.2730",
+    "Cognitive model": "0.1172"
+  },
+  {
+    "Experiment": "Gardening task",
+    "Centaur": "0.4542",
+    "Llama": "0.2729",
+    "Cognitive model": "0.1509"
+  },
+  {
+    "Experiment": "Columbia card task",
+    "Centaur": "0.7063",
+    "Llama": "0.6460",
+    "Cognitive model": "0.6219"
+  },
+  {
+    "Experiment": "Balloon analog risk task",
+    "Centaur": "0.9048",
+    "Llama": "0.8808",
+    "Cognitive model": "0.8670"
+  },
+  {
+    "Experiment": "Two-armed bandit",
+    "Centaur": "0.5725",
+    "Llama": "0.4475",
+    "Cognitive model": "0.4108"
+  },
+  {
+    "Experiment": "Conditional associative learning",
+    "Centaur": "0.5326",
+    "Llama": "0.4427",
+    "Cognitive model": "0.3115"
+  },
+  {
+    "Experiment": "THINGS odd-one-out",
+    "Centaur": "0.2853",
+    "Llama": "-0.0611",
+    "Cognitive model": "0.2406"
+  },
+  {
+    "Experiment": "Multi-attribute decision-making",
+    "Centaur": "0.9107",
+    "Llama": "0.7833",
+    "Cognitive model": "0.7227"
+  },
+  {
+    "Experiment": "Two-step task",
+    "Centaur": "0.2715",
+    "Llama": "0.1275",
+    "Cognitive model": "nan"
+  },
+  {
+    "Experiment": "Probabilistic instrumental learning",
+    "Centaur": "0.2878",
+    "Llama": "0.2236",
+    "Cognitive model": "0.2802"
+  },
+  {
+    "Experiment": "Medin categorization",
+    "Centaur": "0.2835",
+    "Llama": "0.1672",
+    "Cognitive model": "0.2303"
+  },
+  {
+    "Experiment": "Zoopermarket",
+    "Centaur": "0.3002",
+    "Llama": "0.1306",
+    "Cognitive model": "0.1256"
+  },
+  {
+    "Experiment": "choices13k",
+    "Centaur": "0.3770",
+    "Llama": "0.2075",
+    "Cognitive model": "0.0530"
+  },
+  {
+    "Experiment": "CPC18",
+    "Centaur": "0.5109",
+    "Llama": "0.4058",
+    "Cognitive model": "0.0466"
+  },
+  {
+    "Experiment": "Intertemporal choice",
+    "Centaur": "0.3677",
+    "Llama": "-0.0656",
+    "Cognitive model": "0.0492"
+  },
+  {
+    "Experiment": "Structured bandit",
+    "Centaur": "0.6918",
+    "Llama": "0.6098",
+    "Cognitive model": "0.5136"
+  },
+  {
+    "Experiment": "Weather prediction task",
+    "Centaur": "0.2045",
+    "Llama": "0.1705",
+    "Cognitive model": "0.0959"
+  },
+  {
+    "Experiment": "Iowa gambling task",
+    "Centaur": "0.3499",
+    "Llama": "0.2781",
+    "Cognitive model": "0.1497"
+  },
+  {
+    "Experiment": "Virtual subway network",
+    "Centaur": "0.6864",
+    "Llama": "0.5663",
+    "Cognitive model": "nan"
+  },
+  {
+    "Experiment": "Multi-task reinforcement learning",
+    "Centaur": "0.4837",
+    "Llama": "0.3989",
+    "Cognitive model": "0.0625"
+  },
+  {
+    "Experiment": "Serial reaction time task",
+    "Centaur": "0.9521",
+    "Llama": "0.9470",
+    "Cognitive model": "0.9453"
+  },
+  {
+    "Experiment": "Decisions from description",
+    "Centaur": "0.1478",
+    "Llama": "-0.3177",
+    "Cognitive model": "0.1183"
+  },
+  {
+    "Experiment": "Decisions from experience",
+    "Centaur": "0.3236",
+    "Llama": "0.0626",
+    "Cognitive model": "0.2134"
+  },
+  {
+    "Experiment": "Changing bandit",
+    "Centaur": "0.5635",
+    "Llama": "0.4483",
+    "Cognitive model": "0.3685"
+  },
+  {
+    "Experiment": "Multiple-cue judgment",
+    "Centaur": "0.4888",
+    "Llama": "0.4167",
+    "Cognitive model": "0.1245"
+  },
+  {
+    "Experiment": "Recall and recognition",
+    "Centaur": "0.7046",
+    "Llama": "0.6162",
+    "Cognitive model": "nan"
+  },
+  {
+    "Experiment": "Experiential-symbolic task",
+    "Centaur": "0.3459",
+    "Llama": "-0.0070",
+    "Cognitive model": "nan"
+  },
+  {
+    "Experiment": "Grammar judgement",
+    "Centaur": "0.2877",
+    "Llama": "0.0101",
+    "Cognitive model": "0.2989"
+  },
+  {
+    "Experiment": "Risky choice",
+    "Centaur": "0.3828",
+    "Llama": "0.0663",
+    "Cognitive model": "nan"
+  },
+  {
+    "Experiment": "Tile-revealing task",
+    "Centaur": "0.5188",
+    "Llama": "0.2966",
+    "Cognitive model": "nan"
+  },
+  {
+    "Experiment": "Episodic long-term memory",
+    "Centaur": "0.7578",
+    "Llama": "0.6837",
+    "Cognitive model": "nan"
+  },
+  {
+    "Experiment": "Aversive learning",
+    "Centaur": "0.1156",
+    "Llama": "-0.1087",
+    "Cognitive model": "nan"
+  },
+  {
+    "Experiment": "Spatially correlated multi-armed bandit",
+    "Centaur": "0.4613",
+    "Llama": "0.2804",
+    "Cognitive model": "0.1789"
+  },
+  {
+    "Experiment": "Probabilistic reasoning",
+    "Centaur": "0.3378",
+    "Llama": "0.2632",
+    "Cognitive model": "nan"
+  }
+]

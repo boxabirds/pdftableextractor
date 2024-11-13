@@ -1,0 +1,110 @@
+[
+  {
+    "Model Variants": "RAGate-Prompt : LLMs - Zero Shot",
+    "Precision": "RAGate-Prompt : LLMs - Zero Shot",
+    "Recall": "RAGate-Prompt : LLMs - Zero Shot",
+    "F1": "RAGate-Prompt : LLMs - Zero Shot"
+  },
+  {
+    "Model Variants": "Llama-2-7B",
+    "Precision": "0.1323",
+    "Recall": "0.0278",
+    "F1": "0.0460"
+  },
+  {
+    "Model Variants": "Llama-2-13B",
+    "Precision": "0.1422",
+    "Recall": "0.1083",
+    "F1": "0.1230"
+  },
+  {
+    "Model Variants": "RAGate-Prompt : LLMs - In-Context Learning",
+    "Precision": "RAGate-Prompt : LLMs - In-Context Learning",
+    "Recall": "RAGate-Prompt : LLMs - In-Context Learning",
+    "F1": "RAGate-Prompt : LLMs - In-Context Learning"
+  },
+  {
+    "Model Variants": "Llama-2-7B",
+    "Precision": "0.1417",
+    "Recall": "0.0294",
+    "F1": "0.0487"
+  },
+  {
+    "Model Variants": "Llama-2-13B",
+    "Precision": "0.0989",
+    "Recall": "0.0851",
+    "F1": "0.0915"
+  },
+  {
+    "Model Variants": "RAGate-PEFT: Parameter Efficient Fine-tuned LLMs (Llama2-7B)",
+    "Precision": "RAGate-PEFT: Parameter Efficient Fine-tuned LLMs (Llama2-7B)",
+    "Recall": "RAGate-PEFT: Parameter Efficient Fine-tuned LLMs (Llama2-7B)",
+    "F1": "RAGate-PEFT: Parameter Efficient Fine-tuned LLMs (Llama2-7B)"
+  },
+  {
+    "Model Variants": "[contx ⊕ resp]",
+    "Precision": "0.4926",
+    "Recall": "0.3095",
+    "F1": "0.3802"
+  },
+  {
+    "Model Variants": "contx-only",
+    "Precision": "0.5203",
+    "Recall": "0.3359",
+    "F1": "0.4082"
+  },
+  {
+    "Model Variants": "contx-(syn-resp)-ner",
+    "Precision": "0.6818",
+    "Recall": "0.2321",
+    "F1": "0.3464"
+  },
+  {
+    "Model Variants": "contx-(syn-resp)-ner-know",
+    "Precision": "0.4698",
+    "Recall": "0.0603",
+    "F1": "0.1069"
+  },
+  {
+    "Model Variants": "contx-(syn-resp)-ner-source",
+    "Precision": "0.4000",
+    "Recall": "0.0185",
+    "F1": "0.0355"
+  },
+  {
+    "Model Variants": "RAGate-MHA: Context with / without Knowledge Input",
+    "Precision": "RAGate-MHA: Context with / without Knowledge Input",
+    "Recall": "RAGate-MHA: Context with / without Knowledge Input",
+    "F1": "RAGate-MHA: Context with / without Knowledge Input"
+  },
+  {
+    "Model Variants": "MHA(contx)-h(4)-l(5)-emb(64)",
+    "Precision": "0.3210",
+    "Recall": "0.5541",
+    "F1": "0.4065"
+  },
+  {
+    "Model Variants": "MHA([contx ⊕ know])-h(4)-l(2)-emb(64)",
+    "Precision": "0.2795",
+    "Recall": "0.5201",
+    "F1": "0.3636"
+  },
+  {
+    "Model Variants": "MHA(contx × know)-h(4)-l(2)-emb(64)",
+    "Precision": "0.2272",
+    "Recall": "0.5835",
+    "F1": "0.3271"
+  },
+  {
+    "Model Variants": "RAGate-MHA: Context-Response Input",
+    "Precision": "RAGate-MHA: Context-Response Input",
+    "Recall": "RAGate-MHA: Context-Response Input",
+    "F1": "RAGate-MHA: Context-Response Input"
+  },
+  {
+    "Model Variants": "MHA([contx ⊕ resp])-h(4)-l(4)-emb(64)",
+    "Precision": "0.3500",
+    "Recall": "0.5510",
+    "F1": "0.4281"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "synthetic:HelpSteer2 ratio": "1 : 0",
+    "Overall": "0.835",
+    "Chat": "0.975",
+    "Chat Hard": "0.706",
+    "Safety": "0.842",
+    "Reasoning": "0.816"
+  },
+  {
+    "synthetic:HelpSteer2 ratio": "0 : 1",
+    "Overall": "0.856",
+    "Chat": "0.969",
+    "Chat Hard": "0.700",
+    "Safety": "0.888",
+    "Reasoning": "0.867"
+  },
+  {
+    "synthetic:HelpSteer2 ratio": "1 : 1",
+    "Overall": "0.842",
+    "Chat": "0.972",
+    "Chat Hard": "0.681",
+    "Safety": "0.881",
+    "Reasoning": "0.836"
+  },
+  {
+    "synthetic:HelpSteer2 ratio": "1 : 2",
+    "Overall": "0.858",
+    "Chat": "0.972",
+    "Chat Hard": "0.711",
+    "Safety": "0.891",
+    "Reasoning": "0.857"
+  },
+  {
+    "synthetic:HelpSteer2 ratio": "1 : 5",
+    "Overall": "0.847",
+    "Chat": "0.975",
+    "Chat Hard": "0.681",
+    "Safety": "0.889",
+    "Reasoning": "0.844"
+  },
+  {
+    "synthetic:HelpSteer2 ratio": "2 : 1",
+    "Overall": "0.833",
+    "Chat": "0.972",
+    "Chat Hard": "0.689",
+    "Safety": "0.847",
+    "Reasoning": "0.823"
+  },
+  {
+    "synthetic:HelpSteer2 ratio": "5 : 1",
+    "Overall": "0.858",
+    "Chat": "0.972",
+    "Chat Hard": "0.726",
+    "Safety": "0.880",
+    "Reasoning": "0.853"
+  }
+]

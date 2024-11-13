@@ -1,0 +1,30 @@
+[
+  {
+    "Seed": "1",
+    "Average Accuracy": "88.9"
+  },
+  {
+    "Seed": "11",
+    "Average Accuracy": "88.4"
+  },
+  {
+    "Seed": "111",
+    "Average Accuracy": "88.6"
+  },
+  {
+    "Seed": "1111",
+    "Average Accuracy": "88.7"
+  },
+  {
+    "Seed": "11111",
+    "Average Accuracy": "88.3"
+  },
+  {
+    "Seed": "y w always first",
+    "Average Accuracy": "85.5"
+  },
+  {
+    "Seed": "y l always first",
+    "Average Accuracy": "91.1"
+  }
+]

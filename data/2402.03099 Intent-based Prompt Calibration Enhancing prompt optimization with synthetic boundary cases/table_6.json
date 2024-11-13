@@ -1,0 +1,14 @@
+[
+  {
+    "0": "Sentiment GT",
+    "1": "Does this movie review have a positive sentiment? Answer Yes or No. Answer No only in case there is an explicit expression of dissatisfaction otherwise, answer yes."
+  },
+  {
+    "0": "Sentiment Initial Prompt",
+    "1": "Does this movie review have a positive sentiment? answer Yes or No"
+  },
+  {
+    "0": "PG GT",
+    "1": "Augment the IMDB review classifier to better recognize and classify reviews containing adult themes. The classifier should label a review as 'Yes' when it detects not only explicit descrip- tions of sex, violence, and strong language but also subtle adult themes, such as suggestive dialogue, nuanced portrayals of rela- tionships, and indirect references to sex or desire. Additionally, the classifier should account for adult humour and jokes that are presented in a lighthearted manner, ensuring they are not missed. It should also accurately identify implicit adult content conveyed through cinematic techniques or complex narratives, as well as non-graphic mature content like restrained portrayals of infidelity or taboo relationships. Furthermore, personal remarks on the attractiveness of actors or suggestive comments that reviewers make must be included in the 'Yes' category. Conversely, reviews"
+  }
+]

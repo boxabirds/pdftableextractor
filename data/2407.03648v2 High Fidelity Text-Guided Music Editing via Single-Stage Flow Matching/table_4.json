@@ -1,0 +1,52 @@
+[
+  {
+    "ABLATION": "baseline",
+    "HEADS": "16",
+    "LAYERS": "24",
+    "INFILL": "✓",
+    "SAMPLING": "uniform",
+    "OT-FM": "✗",
+    "MSE$_{loss}$ ↓": "-",
+    "FAD$_{vgg}$ ↓": ".53"
+  },
+  {
+    "ABLATION": "- infilling",
+    "HEADS": "16",
+    "LAYERS": "24",
+    "INFILL": "✗",
+    "SAMPLING": "uniform",
+    "OT-FM": "✗",
+    "MSE$_{loss}$ ↓": ".8596",
+    "FAD$_{vgg}$ ↓": ".50"
+  },
+  {
+    "ABLATION": "+ sampling",
+    "HEADS": "16",
+    "LAYERS": "24",
+    "INFILL": "✗",
+    "SAMPLING": "logit-normal",
+    "OT-FM": "✗",
+    "MSE$_{loss}$ ↓": ".8484",
+    "FAD$_{vgg}$ ↓": ".44"
+  },
+  {
+    "ABLATION": "+ batch coupling",
+    "HEADS": "16",
+    "LAYERS": "24",
+    "INFILL": "✗",
+    "SAMPLING": "logit-normal",
+    "OT-FM": "✓",
+    "MSE$_{loss}$ ↓": ".8322",
+    "FAD$_{vgg}$ ↓": ".42"
+  },
+  {
+    "ABLATION": "+ wider model",
+    "HEADS": "18",
+    "LAYERS": "18",
+    "INFILL": "✗",
+    "SAMPLING": "logit-normal",
+    "OT-FM": "✓",
+    "MSE$_{loss}$ ↓": ".8310",
+    "FAD$_{vgg}$ ↓": ".39"
+  }
+]

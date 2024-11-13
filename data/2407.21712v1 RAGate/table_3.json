@@ -1,0 +1,128 @@
+[
+  {
+    "Variants.No-Aug": "Augment BERT Ranker Retrieved Knowledge",
+    "# Augs.0": "Augment BERT Ranker Retrieved Knowledge",
+    "BLEU.9.38 ·": "Augment BERT Ranker Retrieved Knowledge",
+    "ROUGE-L.0.3780 ·": "Augment BERT Ranker Retrieved Knowledge",
+    "BERTScore.0.8105 ·": "Augment BERT Ranker Retrieved Knowledge",
+    "Confidence.9.3425 ·": "Augment BERT Ranker Retrieved Knowledge",
+    "-": "Augment BERT Ranker Retrieved Knowledge"
+  },
+  {
+    "Variants.No-Aug": "RAGate-PEFT",
+    "# Augs.0": "230",
+    "BLEU.9.38 ·": "10.45",
+    "ROUGE-L.0.3780 ·": "0.3825",
+    "BERTScore.0.8105 ·": "0.8144",
+    "Confidence.9.3425 ·": "9.3374",
+    "-": "-0.05%"
+  },
+  {
+    "Variants.No-Aug": "RAGate-MHA",
+    "# Augs.0": "787",
+    "BLEU.9.38 ·": "12.14",
+    "ROUGE-L.0.3780 ·": "0.3882",
+    "BERTScore.0.8105 ·": "0.8192",
+    "Confidence.9.3425 ·": "9.3083",
+    "-": "-0.36%"
+  },
+  {
+    "Variants.No-Aug": "Random-Aug",
+    "# Augs.0": "230",
+    "BLEU.9.38 ·": "9.53",
+    "ROUGE-L.0.3780 ·": "0.3784",
+    "BERTScore.0.8105 ·": "0.8110",
+    "Confidence.9.3425 ·": "9.2984",
+    "-": "-0.47%"
+  },
+  {
+    "Variants.No-Aug": "Random-Aug",
+    "# Augs.0": "787",
+    "BLEU.9.38 ·": "10.01",
+    "ROUGE-L.0.3780 ·": "0.3795",
+    "BERTScore.0.8105 ·": "0.8126",
+    "Confidence.9.3425 ·": "9.1877",
+    "-": "-1.65%"
+  },
+  {
+    "Variants.No-Aug": "Human-label",
+    "# Augs.0": "631",
+    "BLEU.9.38 ·": "11.66",
+    "ROUGE-L.0.3780 ·": "0.3856",
+    "BERTScore.0.8105 ·": "0.8176",
+    "Confidence.9.3425 ·": "9.2550",
+    "-": "-0.93%"
+  },
+  {
+    "Variants.No-Aug": "Aug-All",
+    "# Augs.0": "4964",
+    "BLEU.9.38 ·": "16.08",
+    "ROUGE-L.0.3780 ·": "0.3927",
+    "BERTScore.0.8105 ·": "0.8258",
+    "Confidence.9.3425 ·": "8.3677",
+    "-": "-10.43%"
+  },
+  {
+    "Variants.No-Aug": "Augment Rank-1 Relevant Knowledge",
+    "# Augs.0": "Augment Rank-1 Relevant Knowledge",
+    "BLEU.9.38 ·": "Augment Rank-1 Relevant Knowledge",
+    "ROUGE-L.0.3780 ·": "Augment Rank-1 Relevant Knowledge",
+    "BERTScore.0.8105 ·": "Augment Rank-1 Relevant Knowledge",
+    "Confidence.9.3425 ·": "Augment Rank-1 Relevant Knowledge",
+    "-": "Augment Rank-1 Relevant Knowledge"
+  },
+  {
+    "Variants.No-Aug": "RAGate-Llama",
+    "# Augs.0": "230",
+    "BLEU.9.38 ·": "10.54",
+    "ROUGE-L.0.3780 ·": "0.3822",
+    "BERTScore.0.8105 ·": "0.8142",
+    "Confidence.9.3425 ·": "9.3642",
+    "-": "+0.23%"
+  },
+  {
+    "Variants.No-Aug": "RAGate-MHA",
+    "# Augs.0": "787",
+    "BLEU.9.38 ·": "11.99",
+    "ROUGE-L.0.3780 ·": "0.3883",
+    "BERTScore.0.8105 ·": "0.8191",
+    "Confidence.9.3425 ·": "9.3774",
+    "-": "+0.37%"
+  },
+  {
+    "Variants.No-Aug": "Random-Aug",
+    "# Augs.0": "230",
+    "BLEU.9.38 ·": "9.51",
+    "ROUGE-L.0.3780 ·": "0.3784",
+    "BERTScore.0.8105 ·": "0.8110",
+    "Confidence.9.3425 ·": "9.3328",
+    "-": "-0.10%"
+  },
+  {
+    "Variants.No-Aug": "Random-Aug",
+    "# Augs.0": "787",
+    "BLEU.9.38 ·": "10.01",
+    "ROUGE-L.0.3780 ·": "0.3800",
+    "BERTScore.0.8105 ·": "0.8127",
+    "Confidence.9.3425 ·": "9.2982",
+    "-": "-0.47%"
+  },
+  {
+    "Variants.No-Aug": "Human-label",
+    "# Augs.0": "631",
+    "BLEU.9.38 ·": "11.52",
+    "ROUGE-L.0.3780 ·": "0.3846",
+    "BERTScore.0.8105 ·": "0.8170",
+    "Confidence.9.3425 ·": "9.3218",
+    "-": "-0.22%"
+  },
+  {
+    "Variants.No-Aug": "Augment-All",
+    "# Augs.0": "4964",
+    "BLEU.9.38 ·": "16.05",
+    "ROUGE-L.0.3780 ·": "0.3944",
+    "BERTScore.0.8105 ·": "0.8259",
+    "Confidence.9.3425 ·": "9.0655",
+    "-": "-2.9%"
+  }
+]

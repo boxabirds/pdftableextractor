@@ -1,0 +1,62 @@
+[
+  {
+    "0": "[15]",
+    "1": "B. Lester, R. Al-Rfou, and N. Constant. The power of scale for parameter-efficient prompt tuning. In M.-F. Moens, X. Huang, L. Specia, and S. W.-t. Yih, editors, Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing , pages 3045-3059, Online and Punta Cana, Dominican Republic, Nov. 2021. Association for Computational Linguistics."
+  },
+  {
+    "0": "[16]",
+    "1": "X. L. Li and P. Liang. Prefix-tuning: Optimizing continuous prompts for generation. In C. Zong, F. Xia, W. Li, and R. Navigli, editors, Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) , pages 4582-4597, Online, Aug. 2021. Association for Computational Linguistics."
+  },
+  {
+    "0": "[17]",
+    "1": "X. Liu, Y. Zheng, Z. Du, M. Ding, Y. Qian, Z. Yang, and J. Tang. GPT understands, too. CoRR , abs/2103.10385, 2021."
+  },
+  {
+    "0": "[18]",
+    "1": "Y. Lu, M. Bartolo, A. Moore, S. Riedel, and P. Stenetorp. Fantastically ordered prompts and where to find them: Overcoming few-shot prompt order sensitivity. ArXiv , abs/2104.08786, 2021."
+  },
+  {
+    "0": "[19]",
+    "1": "H. Luo, Q. Sun, C. Xu, P. Zhao, J. Lou, C. Tao, X. Geng, Q. Lin, S. Chen, and D. Zhang. Wizardmath: Empowering mathematical reasoning for large language models via reinforced evol-instruct. CoRR , abs/2308.09583, 2023."
+  },
+  {
+    "0": "[20]",
+    "1": "A. L. Maas, R. E. Daly, P. T. Pham, D. Huang, A. Y. Ng, and C. Potts. Learning word vectors for sentiment analysis. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies , pages 142-150, Portland, Oregon, USA, June 2011. Association for Computational Linguistics."
+  },
+  {
+    "0": "[21]",
+    "1": "A. G. Møller, J. A. Dalsgaard, A. Pera, and L. M. Aiello. Is a prompt and a few samples all you need? using GPT-4 for data augmentation in low-resource classification tasks. CoRR , abs/2304.13861, 2023."
+  },
+  {
+    "0": "[22]",
+    "1": "S. Mukherjee, A. Mitra, G. Jawahar, S. Agarwal, H. Palangi, and A. Awadallah. Orca: Progres- sive learning from complex explanation traces of GPT-4. CoRR , abs/2306.02707, 2023."
+  },
+  {
+    "0": "[23]",
+    "1": "E. A. Platanios, O. Stretcu, G. Neubig, B. Póczos, and T. M. Mitchell. Competence-based curriculum learning for neural machine translation. In J. Burstein, C. Doran, and T. Solorio, edi- tors, Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, NAACL-HLT 2019, Minneapolis, MN, USA, June 2-7, 2019, Volume 1 (Long and Short Papers) , pages 1162-1172. Association"
+  },
+  {
+    "0": "[24]",
+    "1": "R. Pryzant, D. Iter, J. Li, Y. Lee, C. Zhu, and M. Zeng. Automatic prompt optimization with \"gradient descent\" and beam search. In H. Bouamor, J. Pino, and K. Bali, editors, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing , pages 7957-7968, Singapore, Dec. 2023. Association for Computational Linguistics."
+  },
+  {
+    "0": "[25]",
+    "1": "B. Rozière, J. Gehring, F. Gloeckle, S. Sootla, I. Gat, X. E. Tan, Y. Adi, J. Liu, T. Remez, J. Rapin, A. Kozhevnikov, I. Evtimov, J. Bitton, M. Bhatt, C. Canton-Ferrer, A. Grattafiori, W. Xiong, A. Défossez, J. Copet, F. Azhar, H. Touvron, L. Martin, N. Usunier, T. Scialom, and G. Synnaeve. Code llama: Open foundation models for code. CoRR , abs/2308.12950, 2023."
+  },
+  {
+    "0": "[26]",
+    "1": "E. Sangineto, M. Nabi, D. Culibrk, and N. Sebe. Self paced deep learning for weakly supervised object detection. IEEE Trans. Pattern Anal. Mach. Intell. , 41(3):712-725, 2019."
+  },
+  {
+    "0": "[27]",
+    "1": "M. Sclar, Y. Choi, Y. Tsvetkov, and A. Suhr. Quantifying language models' sensitivity to spurious features in prompt design or: How I learned to start worrying about prompt formatting."
+  },
+  {
+    "0": "[28]",
+    "1": "CoRR , abs/2310.11324, 2023. M. Shi and V. Ferrari. Weakly supervised object localization using size estimates. In B. Leibe, J."
+  },
+  {
+    "0": "",
+    "1": "Matas, N. Sebe, and M. Welling, editors, Computer Vision - ECCV 2016 - 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part V , volume 9909 of Lecture Notes in Computer Science , pages 105-121. Springer, 2016."
+  }
+]

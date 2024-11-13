@@ -1,0 +1,66 @@
+[
+  {
+    "Name": "max_seq_len",
+    "Value": "4096"
+  },
+  {
+    "Name": "max_num_tokens",
+    "Value": "8192"
+  },
+  {
+    "Name": "model",
+    "Value": "llama3_70b_instruct"
+  },
+  {
+    "Name": "dtype",
+    "Value": "bfloat16"
+  },
+  {
+    "Name": "data_parallelism",
+    "Value": "fsdp"
+  },
+  {
+    "Name": "tensor_parallel_size",
+    "Value": "8"
+  },
+  {
+    "Name": "activation_checkpointing",
+    "Value": "true"
+  },
+  {
+    "Name": "lr",
+    "Value": "1.0e-06"
+  },
+  {
+    "Name": "betas",
+    "Value": "0.9, 0.95"
+  },
+  {
+    "Name": "final_lr_ratio",
+    "Value": "0.2"
+  },
+  {
+    "Name": "weight_decay",
+    "Value": "0.1"
+  },
+  {
+    "Name": "num_lr_warmup_steps",
+    "Value": "100"
+  },
+  {
+    "Name": "gradient_accumulation",
+    "Value": "1"
+  },
+  {
+    "Name": "max_num_data_epochs",
+    "Value": "2"
+  },
+  {
+    "Name": "checkpoint_every_n_steps",
+    "Value": "100"
+  },
+  {
+    "Name": "seed",
+    "Value": "2"
+  }
+]

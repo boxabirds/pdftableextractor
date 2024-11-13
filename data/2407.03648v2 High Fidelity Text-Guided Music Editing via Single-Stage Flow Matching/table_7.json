@@ -1,0 +1,50 @@
+[
+  {
+    "0": "Aram-Alexandre Pooladian, Heli Ben-Hamu, Carles Domingo-Enrich, Brandon Amos, Yaron Lipman, and Ricky TQ Chen. Multisample flow matching: Straightening flows with minibatch couplings."
+  },
+  {
+    "0": "KR Prajwal, Bowen Shi, Matthew Le, Apoorv Vyas, Andros Tjandra, Mahi Luthra, Baishan Guo, Huiyu Wang, Triantafyllos Afouras, David Kant, et al. Musicflow: Cascaded flow matching for text guided music generation. In Forty-first International Conference on Machine Learning , 2024."
+  },
+  {
+    "0": "Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, and Peter J. Liu. Exploring the limits of transfer learning with a unified text-to-text transformer. Journal of Machine Learning Research , 21(140):1-67, 2020. URL http://jmlr.org/papers/v21/20-074.html ."
+  },
+  {
+    "0": "Dominik Roblek, Kevin Kilgour, Matt Sharifi, and Mauricio Zuluaga. Fr'echet audio distance: A reference-free metric for evaluating music enhancement algorithms. In Proc. Interspeech 2019 , pp."
+  },
+  {
+    "0": "Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Bjorn Ommer. High- resolution image synthesis with latent diffusion models. In Proceedings of the IEEE/CVF confer- ence on computer vision and pattern recognition , pp. 10684-10695, 2022. Flavio Schneider, Ojasv Kamal, Zhijing Jin, and Bernhard Scholkopf. Mo"
+  },
+  {
+    "0": "\\ ˆ usai: Text-to-music generation with long-context latent diffusion. arXiv preprint arXiv:2301.11757 , 2023."
+  },
+  {
+    "0": "BS Series. Algorithms to measure audio programme loudness and true-peak audio level. In Interna- tional Telecommunication Union Radiocommunication Assembly , 2011. Jiaming Song, Chenlin Meng, and Stefano Ermon. Denoising diffusion implicit models. arXiv"
+  },
+  {
+    "0": "Christian J. Steinmetz, Jordi Pons, Santiago Pascual, and Joan Serr'a. Automatic multitrack mixing"
+  },
+  {
+    "0": "FATRAS, Guy Wolf, and Yoshua Bengio. Improving and generalizing flow-based generative models with minibatch optimal transport. In ICML Workshop on New Frontiers in Learning,"
+  },
+  {
+    "0": "Apoorv Vyas, Bowen Shi, Matthew Le, Andros Tjandra, Yi-Chiao Wu, Baishan Guo, Jiemin Zhang, Xinyue Zhang, Robert Adkins, William Ngan, et al. Audiobox: Unified audio generation with natural language prompts. arXiv preprint arXiv:2312.15821 , 2023."
+  },
+  {
+    "0": "Yuancheng Wang, Zeqian Ju, Xu Tan, Lei He, Zhizheng Wu, Jiang Bian, et al. Audit: Audio editing by following instructions with latent diffusion models. Advances in Neural Information Processing"
+  },
+  {
+    "0": "Shih-Lun Wu, Chris Donahue, Shinji Watanabe, and Nicholas J Bryan. Music controlnet: Multiple"
+  },
+  {
+    "0": "Alec Wright and Vesa Valimaki. Perceptual loss function for neural modelling of audio systems,"
+  },
+  {
+    "0": "Neil Zeghidour, Alejandro Luebs, Ahmed Omran, Jan Skoglund, and Marco Tagliasacchi. Sound-"
+  },
+  {
+    "0": "stream: An end-to-end neural audio codec. IEEE/ACM Transactions on Audio, Speech, and Language Processing , 30:495-507, 2021. Yixiao Zhang, Yukara Ikemiya, Gus Xia, Naoki Murata, Marco Mart'ınez, Wei-Hsiang Liao, Yuki"
+  },
+  {
+    "0": "Mitsufuji, and Simon Dixon. Musicmagus: Zero-shot text-to-music editing via diffusion models."
+  }
+]

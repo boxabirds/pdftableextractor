@@ -1,0 +1,86 @@
+[
+  {
+    "": "Quiz 1 - 10 Q",
+    "Vanilla LLM.Llama3": "3.2",
+    "Vanilla LLM.Mistral": "4.0",
+    "Vanilla LLM.Shisa": "4.0",
+    "RAG.Llama3": "5.0",
+    "RAG.Mistral": "3.0",
+    "RAG.Shisa": "3.0",
+    "Golden Retriever (Ours).Llama3": "6.0",
+    "Golden Retriever (Ours).Mistral": "5.8",
+    "Golden Retriever (Ours).Shisa": "4.6"
+  },
+  {
+    "": "Quiz 2 - 10 Q",
+    "Vanilla LLM.Llama3": "7.0",
+    "Vanilla LLM.Mistral": "6.0",
+    "Vanilla LLM.Shisa": "7.0",
+    "RAG.Llama3": "10.0",
+    "RAG.Mistral": "10.0",
+    "RAG.Shisa": "8.0",
+    "Golden Retriever (Ours).Llama3": "10.0",
+    "Golden Retriever (Ours).Mistral": "10.0",
+    "Golden Retriever (Ours).Shisa": "8.0"
+  },
+  {
+    "": "Quiz 3 - 9 Q",
+    "Vanilla LLM.Llama3": "4.2",
+    "Vanilla LLM.Mistral": "5.0",
+    "Vanilla LLM.Shisa": "5.0",
+    "RAG.Llama3": "6.0",
+    "RAG.Mistral": "7.0",
+    "RAG.Shisa": "4.0",
+    "Golden Retriever (Ours).Llama3": "7.0",
+    "Golden Retriever (Ours).Mistral": "8.0",
+    "Golden Retriever (Ours).Shisa": "5.0"
+  },
+  {
+    "": "Quiz 4 - 10 Q",
+    "Vanilla LLM.Llama3": "3.6",
+    "Vanilla LLM.Mistral": "3.0",
+    "Vanilla LLM.Shisa": "1.0",
+    "RAG.Llama3": "2.0",
+    "RAG.Mistral": "1.0",
+    "RAG.Shisa": "1.0",
+    "Golden Retriever (Ours).Llama3": "6.0",
+    "Golden Retriever (Ours).Mistral": "4.0",
+    "Golden Retriever (Ours).Shisa": "4.0"
+  },
+  {
+    "": "Quiz 5 - 10 Q",
+    "Vanilla LLM.Llama3": "1.2",
+    "Vanilla LLM.Mistral": "4.0",
+    "Vanilla LLM.Shisa": "2.0",
+    "RAG.Llama3": "1.0",
+    "RAG.Mistral": "3.0",
+    "RAG.Shisa": "2.0",
+    "Golden Retriever (Ours).Llama3": "5.0",
+    "Golden Retriever (Ours).Mistral": "3.0",
+    "Golden Retriever (Ours).Shisa": "5.0"
+  },
+  {
+    "": "Quiz 6 - 9 Q",
+    "Vanilla LLM.Llama3": "2.0",
+    "Vanilla LLM.Mistral": "1.0",
+    "Vanilla LLM.Shisa": "2.0",
+    "RAG.Llama3": "3.0",
+    "RAG.Mistral": "3.0",
+    "RAG.Shisa": "4.0",
+    "Golden Retriever (Ours).Llama3": "4.0",
+    "Golden Retriever (Ours).Mistral": "3.0",
+    "Golden Retriever (Ours).Shisa": "4.0"
+  },
+  {
+    "": "Total Score",
+    "Vanilla LLM.Llama3": "21.2",
+    "Vanilla LLM.Mistral": "23.0",
+    "Vanilla LLM.Shisa": "21.0",
+    "RAG.Llama3": "27.0",
+    "RAG.Mistral": "27.0",
+    "RAG.Shisa": "22.0",
+    "Golden Retriever (Ours).Llama3": "38.0",
+    "Golden Retriever (Ours).Mistral": "33.8",
+    "Golden Retriever (Ours).Shisa": "30.6"
+  }
+]

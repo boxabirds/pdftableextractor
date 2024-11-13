@@ -1,0 +1,66 @@
+[
+  {
+    "0": "<< C >>",
+    "1": "You are shown the letters ['Z', 'A', 'Y', 'F', 'Q', 'G']. You see the letter Q. You press ."
+  },
+  {
+    "0": "<<",
+    "1": "You are shown the letters ['Z', 'M', 'Y', 'P', 'A', 'B']. You see the letter X. You press Q >> ."
+  },
+  {
+    "0": "<< Q >> .",
+    "1": "You are shown the letters ['L', 'X', 'M', 'Z', 'Y', 'N']. You see the letter B. You press"
+  },
+  {
+    "0": "<< Q >> .",
+    "1": "You are shown the letters ['M', 'J', 'X', 'C', 'L', 'U']. You see the letter P. You press"
+  },
+  {
+    "0": "<< C >> .",
+    "1": "You are shown the letters ['S', 'J', 'E', 'H', 'X', 'M']. You see the letter M. You press"
+  },
+  {
+    "0": "",
+    "1": "You are shown the letters ['F', 'I', 'E', 'A', 'J', 'S']. You see the letter X. You press"
+  },
+  {
+    "0": "You are shown the letters ['D', 'U', 'I', 'M', 'O', 'T']. You see the letter Q. You press << Q >> .",
+    "1": "You are shown the letters ['I', 'D', 'U', 'G', 'Q', 'W']. You see the letter B. You press"
+  },
+  {
+    "0": "<< Q >> .",
+    "1": "You are shown the letters ['U', 'I', 'B', 'L', 'D', 'Z']. You see the letter W. You press"
+  },
+  {
+    "0": "<< Q >> .",
+    "1": "You are shown the letters ['U', 'E', 'B', 'I', 'H', 'R']. You see the letter I. You press"
+  },
+  {
+    "0": "<< C >> .",
+    "1": ""
+  },
+  {
+    "0": "You are shown the letters ['S', 'B', 'U', 'E', 'F', 'N']. You see the letter I. You press << Q >> .",
+    "1": "You are shown the letters ['Y', 'S', 'Q', 'U', 'B', 'A']. You see the letter Y. You press"
+  },
+  {
+    "0": "<< C >> . << C",
+    "1": "You are shown the letters ['Q', 'V', 'Y', 'S', 'H', 'O']. You see the letter H. You press >> ."
+  },
+  {
+    "0": "You are shown the letters ['V', 'Z', 'P', 'D', 'Q', 'Y']. You see the letter H. You press << C >> .",
+    "1": ""
+  },
+  {
+    "0": "You are shown the letters ['Z', 'P', 'V', 'W', 'L', 'N']. You see the letter H. You press << Q >> .",
+    "1": "You are shown the letters ['U', 'S', 'Z', 'V', 'P', 'M']. You see the letter W. You press"
+  },
+  {
+    "0": "<< Q >> .",
+    "1": ""
+  },
+  {
+    "0": "You are shown the letters ['U', 'Y', 'Z', 'S', 'C', 'G']. You see the letter W. You press << Q >> .",
+    "1": ""
+  }
+]

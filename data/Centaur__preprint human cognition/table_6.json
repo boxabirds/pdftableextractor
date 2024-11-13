@@ -1,0 +1,125 @@
+[
+  {
+    "0": "Product A ratings: [1 1 1 1]. Product R ratings: [0 0 1 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 0 0 0]. Product R ratings: [0 0 0 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 1 1 0]. Product R ratings: [0 0 1 0]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [0 1 1 1]. Product R ratings: [1 1 1 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [0 1 0 1]. Product R ratings: [1 1 0 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [0 0 1 1]. Product R ratings: [1 0 1 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [0 1 1 1]. Product R ratings: [1 0 0 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [0 1 1 1]. Product R ratings: [1 1 1 0]. You press R >> ."
+  },
+  {
+    "0": "<< Product A ratings: [1 0 1 0]. Product R ratings: [0 0 1 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 1 0 0]. Product R ratings: [0 1 0 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 0 0 0]. Product R ratings: [0 1 1 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [1 0 0 1]. Product R ratings: [0 1 1 1]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [1 1 1 1]. Product R ratings: [0 0 1 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 0 0 0]. Product R ratings: [0 0 0 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 1 0 1]. Product R ratings: [0 0 0 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 0 0 1]. Product R ratings: [0 1 1 1]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [0 1 0 1]. Product R ratings: [1 1 0 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [1 0 1 1]. Product R ratings: [0 0 0 0]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 0 0 0]. Product R ratings: [0 0 0 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [0 1 1 1]. Product R ratings: [1 1 1 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [0 1 1 0]. Product R ratings: [1 0 0 0]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 1 1 0]. Product R ratings: [0 1 1 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [0 0 0 0]. Product R ratings: [1 1 0 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [0 0 0 0]. Product R ratings: [1 1 0 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [1 0 0 0]. Product R ratings: [0 1 1 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [0 1 1 1]. Product R ratings: [1 0 0 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [0 0 0 1]. Product R ratings: [1 0 0 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [1 0 0 0]. Product R ratings: [0 1 1 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [1 1 0 0]. Product R ratings: [0 0 0 0]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 1 0 0]. Product R ratings: [0 1 0 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 0 0 0]. Product R ratings: [0 0 0 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [0 0 0 1]. Product R ratings: [1 0 0 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [1 0 1 0]. Product R ratings: [0 0 1 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 1 0 0]. Product R ratings: [0 0 0 0]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [0 0 1 1]. Product R ratings: [1 0 1 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [1 0 0 0]. Product R ratings: [0 1 1 0]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [1 1 1 0]. Product R ratings: [0 0 1 0]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 0 0 1]. Product R ratings: [0 1 1 1]. You press << R >> ."
+  },
+  {
+    "0": "Product A ratings: [1 0 1 0]. Product R ratings: [0 0 1 1]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [0 1 1 0]. Product R ratings: [1 0 0 0]. You press << A >>"
+  },
+  {
+    "0": "Product A ratings: [1 1 0 0]. Product R ratings: [0 1 0 1]. You press << A >>"
+  }
+]

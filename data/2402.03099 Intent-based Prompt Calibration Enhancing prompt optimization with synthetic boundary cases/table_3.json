@@ -1,0 +1,22 @@
+[
+  {
+    "": "IPC (default)",
+    "Spoiler classification GPT-4 Turbo": "88 . 4 ± 1 . 7",
+    "Spoiler classification GPT-3.5": "72 . 6 ± 3 . 8"
+  },
+  {
+    "": "- Iterative data generation",
+    "Spoiler classification GPT-4 Turbo": "87 . 3 ± 1 . 8",
+    "Spoiler classification GPT-3.5": "67 . 0 ± 4 . 1"
+  },
+  {
+    "": "- Synthetic data",
+    "Spoiler classification GPT-4 Turbo": "83 . 3 ± 2 . 4",
+    "Spoiler classification GPT-3.5": "62 . 6 ± 4 . 1"
+  },
+  {
+    "": "- Analyzer",
+    "Spoiler classification GPT-4 Turbo": "77 . 8 ± 2 . 2",
+    "Spoiler classification GPT-3.5": "64 . 3 ± 3 . 8"
+  }
+]

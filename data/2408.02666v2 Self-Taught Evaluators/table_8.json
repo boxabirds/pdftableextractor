@@ -1,0 +1,32 @@
+[
+  {
+    "Stage": "Train",
+    "Generation for": "Judgment",
+    "Temperature": "0.7",
+    "Top p": "0.9"
+  },
+  {
+    "Stage": "Eval",
+    "Generation for": "MT-Bench",
+    "Temperature": "0.0",
+    "Top p": "1.0"
+  },
+  {
+    "Stage": "Eval",
+    "Generation for": "Reward Bench (RB)",
+    "Temperature": "0.0",
+    "Top p": "1.0"
+  },
+  {
+    "Stage": "Eval",
+    "Generation for": "RB w/ maj voting",
+    "Temperature": "0.7",
+    "Top p": "0.9"
+  },
+  {
+    "Stage": "Eval",
+    "Generation for": "Helpsteer 2 valid",
+    "Temperature": "0.7",
+    "Top p": "0.9"
+  }
+]

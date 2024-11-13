@@ -1,0 +1,47 @@
+[
+  {
+    "Model": "Llama-3-70B-Instruct",
+    "Source for synthetic preferences": "",
+    "Overall": "75.4",
+    "Chat": "97.6",
+    "Chat Hard": "58.9",
+    "Safety": "69.2",
+    "Reasoning": "78.5"
+  },
+  {
+    "Model": "",
+    "Source for synthetic preferences": "safety (hh_rlhf)",
+    "Overall": "79.6",
+    "Chat": "97.2",
+    "Chat Hard": "55.4",
+    "Safety": "87.0",
+    "Reasoning": "78.8"
+  },
+  {
+    "Model": "",
+    "Source for synthetic preferences": "math (GSM8K)",
+    "Overall": "79.3",
+    "Chat": "96.1",
+    "Chat Hard": "58.8",
+    "Safety": "79.4",
+    "Reasoning": "83.0"
+  },
+  {
+    "Model": "",
+    "Source for synthetic preferences": "coding (WildChat)",
+    "Overall": "79.4",
+    "Chat": "96.6",
+    "Chat Hard": "55.9",
+    "Safety": "85.3",
+    "Reasoning": "79.7"
+  },
+  {
+    "Model": "",
+    "Source for synthetic preferences": "reasoning (WildChat)",
+    "Overall": "83.5",
+    "Chat": "97.5",
+    "Chat Hard": "70.6",
+    "Safety": "84.2",
+    "Reasoning": "81.6"
+  }
+]

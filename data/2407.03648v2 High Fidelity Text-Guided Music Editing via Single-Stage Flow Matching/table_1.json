@@ -1,0 +1,26 @@
+[
+  {
+    "MODEL": "AUDIOLDM 2-music",
+    "METHOD": "DDPM inv.",
+    "OVL. ↑": "2.48 ± 0.07",
+    "REL. ↑": "2.36 ± 0.08",
+    "CON. ↑": "2.72 ± 0.09",
+    "AVG. ↑": "2.52"
+  },
+  {
+    "MODEL": "MUSICGEN-melody",
+    "METHOD": "Chroma cond.",
+    "OVL. ↑": "2.57 ± 0.08",
+    "REL. ↑": "2.46 ± 0.09",
+    "CON. ↑": "2.14 ± 0.07",
+    "AVG. ↑": "2.39"
+  },
+  {
+    "MODEL": "MELODYFLOW-medium",
+    "METHOD": "Reg. inv.",
+    "OVL. ↑": "2.72 ± 0.08",
+    "REL. ↑": "2.72 ± 0.07",
+    "CON. ↑": "2.61 ± 0.10",
+    "AVG. ↑": "2.68"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "Model": "Llama-3-70B-Instruct (seed)",
+    "Overall": "77.8",
+    "writing": "70",
+    "stem": "76.9",
+    "coding": "73.8",
+    "math": "80",
+    "humanities": "79.85",
+    "reasoning": "78.8",
+    "roleplay": "78.8",
+    "extraction": "85.1"
+  },
+  {
+    "Model": "Self-Taught Evaluator, trained on synthetic data only",
+    "Overall": "Self-Taught Evaluator, trained on synthetic data only",
+    "writing": "Self-Taught Evaluator, trained on synthetic data only",
+    "stem": "Self-Taught Evaluator, trained on synthetic data only",
+    "coding": "Self-Taught Evaluator, trained on synthetic data only",
+    "math": "Self-Taught Evaluator, trained on synthetic data only",
+    "humanities": "Self-Taught Evaluator, trained on synthetic data only",
+    "reasoning": "Self-Taught Evaluator, trained on synthetic data only",
+    "roleplay": "Self-Taught Evaluator, trained on synthetic data only",
+    "extraction": "Self-Taught Evaluator, trained on synthetic data only"
+  },
+  {
+    "Model": "Iteration 1",
+    "Overall": "78.95",
+    "writing": "71.15",
+    "stem": "78.95",
+    "coding": "76.6",
+    "math": "81.65",
+    "humanities": "80.25",
+    "reasoning": "82.3",
+    "roleplay": "80.7",
+    "extraction": "80.25"
+  },
+  {
+    "Model": "Iteration 2",
+    "Overall": "78.65",
+    "writing": "69.6",
+    "stem": "77.9",
+    "coding": "82.55",
+    "math": "79.15",
+    "humanities": "82.2",
+    "reasoning": "80.8",
+    "roleplay": "77.6",
+    "extraction": "79.8"
+  },
+  {
+    "Model": "Iteration 3",
+    "Overall": "78.9",
+    "writing": "70.4",
+    "stem": "78.6",
+    "coding": "79.35",
+    "math": "79.55",
+    "humanities": "82.9",
+    "reasoning": "82.3",
+    "roleplay": "77.9",
+    "extraction": "80.7"
+  },
+  {
+    "Model": "Iteration 4",
+    "Overall": "77.45",
+    "writing": "71.15",
+    "stem": "77.25",
+    "coding": "75.8",
+    "math": "73.3",
+    "humanities": "82.6",
+    "reasoning": "81.3",
+    "roleplay": "78.85",
+    "extraction": "79.35"
+  },
+  {
+    "Model": "Iteration 5",
+    "Overall": "78.9",
+    "writing": "68.45",
+    "stem": "78.2",
+    "coding": "81.75",
+    "math": "82.5",
+    "humanities": "82.25",
+    "reasoning": "81.35",
+    "roleplay": "75.15",
+    "extraction": "83.75"
+  },
+  {
+    "Model": "w/ majority voting @ 32",
+    "Overall": "79.45",
+    "writing": "68.45",
+    "stem": "78.55",
+    "coding": "82.95",
+    "math": "83.75",
+    "humanities": "82.9",
+    "reasoning": "82.8",
+    "roleplay": "76.35",
+    "extraction": "81.6"
+  },
+  {
+    "Model": "Other SoTA LLM-as-a-Judge baseline models",
+    "Overall": "Other SoTA LLM-as-a-Judge baseline models",
+    "writing": "Other SoTA LLM-as-a-Judge baseline models",
+    "stem": "Other SoTA LLM-as-a-Judge baseline models",
+    "coding": "Other SoTA LLM-as-a-Judge baseline models",
+    "math": "Other SoTA LLM-as-a-Judge baseline models",
+    "humanities": "Other SoTA LLM-as-a-Judge baseline models",
+    "reasoning": "Other SoTA LLM-as-a-Judge baseline models",
+    "roleplay": "Other SoTA LLM-as-a-Judge baseline models",
+    "extraction": "Other SoTA LLM-as-a-Judge baseline models"
+  },
+  {
+    "Model": "GPT4-0125",
+    "Overall": "79.15",
+    "writing": "70.4",
+    "stem": "79.9",
+    "coding": "82.9",
+    "math": "82.1",
+    "humanities": "80.55",
+    "reasoning": "80.8",
+    "roleplay": "77",
+    "extraction": "80.7"
+  }
+]

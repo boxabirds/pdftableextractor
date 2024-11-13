@@ -1,0 +1,51 @@
+[
+  {
+    "Model": "Llama-3-70B-Instruct (seed)",
+    "0-1 Acc": "65.2",
+    "1-0 Acc": "65.8",
+    "Avg Acc": "65.5",
+    "Position-consistent Acc": "56.5"
+  },
+  {
+    "Model": "Self-Taught Evaluator, trained on synthetic data only",
+    "0-1 Acc": "Self-Taught Evaluator, trained on synthetic data only",
+    "1-0 Acc": "Self-Taught Evaluator, trained on synthetic data only",
+    "Avg Acc": "Self-Taught Evaluator, trained on synthetic data only",
+    "Position-consistent Acc": "Self-Taught Evaluator, trained on synthetic data only"
+  },
+  {
+    "Model": "Iteration 1",
+    "0-1 Acc": "68.1",
+    "1-0 Acc": "68.7",
+    "Avg Acc": "68.4",
+    "Position-consistent Acc": "59.4"
+  },
+  {
+    "Model": "Iteration 2",
+    "0-1 Acc": "69.6",
+    "1-0 Acc": "69.4",
+    "Avg Acc": "69.5",
+    "Position-consistent Acc": "58.8"
+  },
+  {
+    "Model": "Iteration 3",
+    "0-1 Acc": "70.3",
+    "1-0 Acc": "71.2",
+    "Avg Acc": "70.8",
+    "Position-consistent Acc": "61.1"
+  },
+  {
+    "Model": "Iteration 4",
+    "0-1 Acc": "71.0",
+    "1-0 Acc": "71.7",
+    "Avg Acc": "71.4",
+    "Position-consistent Acc": "61.9"
+  },
+  {
+    "Model": "Iteration 5",
+    "0-1 Acc": "71.6",
+    "1-0 Acc": "70.3",
+    "Avg Acc": "71.0",
+    "Position-consistent Acc": "60.6"
+  }
+]

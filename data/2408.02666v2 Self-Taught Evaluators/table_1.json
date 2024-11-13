@@ -1,0 +1,130 @@
+[
+  {
+    "Model": "Llama-3-70B-Instruct (seed)",
+    "Overall": "75.4",
+    "Chat": "97.6",
+    "Chat Hard": "58.9",
+    "Safety": "69.2",
+    "Reasoning": "78.5"
+  },
+  {
+    "Model": "Self-Taught Evaluator, trained on synthetic data only",
+    "Overall": "",
+    "Chat": "",
+    "Chat Hard": "",
+    "Safety": "",
+    "Reasoning": ""
+  },
+  {
+    "Model": "Iteration 1",
+    "Overall": "83.9",
+    "Chat": "98.3",
+    "Chat Hard": "69.0",
+    "Safety": "85.7",
+    "Reasoning": "82.6"
+  },
+  {
+    "Model": "Iteration 2",
+    "Overall": "86.0",
+    "Chat": "97.5",
+    "Chat Hard": "75.4",
+    "Safety": "89.5",
+    "Reasoning": "81.7"
+  },
+  {
+    "Model": "Iteration 3",
+    "Overall": "87.5",
+    "Chat": "97.2",
+    "Chat Hard": "79.1",
+    "Safety": "89.7",
+    "Reasoning": "83.9"
+  },
+  {
+    "Model": "Iteration 4",
+    "Overall": "87.7",
+    "Chat": "98.0",
+    "Chat Hard": "80.3",
+    "Safety": "90.5",
+    "Reasoning": "82.2"
+  },
+  {
+    "Model": "Iteration 5",
+    "Overall": "88.3",
+    "Chat": "96.6",
+    "Chat Hard": "84.2",
+    "Safety": "91.5",
+    "Reasoning": "81.0"
+  },
+  {
+    "Model": "w/ majority voting using 32 samples",
+    "Overall": "88.7",
+    "Chat": "96.9",
+    "Chat Hard": "84.0",
+    "Safety": "91.5",
+    "Reasoning": "82.5"
+  },
+  {
+    "Model": "Baselines with Labeled Data",
+    "Overall": "",
+    "Chat": "",
+    "Chat Hard": "",
+    "Safety": "",
+    "Reasoning": ""
+  },
+  {
+    "Model": "Llama-3-70B-Instruct w/ HelpSteer2, LLM-as-a-Judge",
+    "Overall": "85.6",
+    "Chat": "96.9",
+    "Chat Hard": "70.0",
+    "Safety": "88.8",
+    "Reasoning": "86.7"
+  },
+  {
+    "Model": "nvidia/Llama3 70B RM with HelpSteer2, classifier *",
+    "Overall": "88.8",
+    "Chat": "91.3",
+    "Chat Hard": "80.3",
+    "Safety": "92.8",
+    "Reasoning": "90.7"
+  },
+  {
+    "Model": "Other SoTA LLM-as-a-Judge baseline models",
+    "Overall": "",
+    "Chat": "",
+    "Chat Hard": "",
+    "Safety": "",
+    "Reasoning": ""
+  },
+  {
+    "Model": "GPT4 0125 *",
+    "Overall": "84.3",
+    "Chat": "95.3",
+    "Chat Hard": "74.3",
+    "Safety": "87.2",
+    "Reasoning": "86.9"
+  },
+  {
+    "Model": "Gemini 1.5 Pro 0514 *",
+    "Overall": "88.1",
+    "Chat": "92.3",
+    "Chat Hard": "80.6",
+    "Safety": "87.5",
+    "Reasoning": "92.0"
+  },
+  {
+    "Model": "Llama3.1-405B-Instruct",
+    "Overall": "83.7",
+    "Chat": "98.0",
+    "Chat Hard": "75.1",
+    "Safety": "74.7",
+    "Reasoning": "86.8"
+  },
+  {
+    "Model": "Llama3.1-70B-Instruct",
+    "Overall": "82.2",
+    "Chat": "97.8",
+    "Chat Hard": "69.7",
+    "Safety": "76.3",
+    "Reasoning": "85.2"
+  }
+]

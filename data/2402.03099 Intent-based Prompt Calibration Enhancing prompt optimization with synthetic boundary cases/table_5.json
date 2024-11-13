@@ -1,0 +1,18 @@
+[
+  {
+    "0": "GT ranker",
+    "1": "Establish a revised five-point assessment scale for the movie review generator that emphasizes precise differentiation between all levels of reflective accuracy and expressed enthusiasm. Assign the classification labels \"1\", \"2\", \"3\", \"4\", and \"5\", with each level distinctly representing the depth and sincerity of reflection on the movie description as well as the intensity and authenticity of enthusiasm: 1. Deficient Reflection and Lacking Enthusiasm (\"1\"): Reviews that funda- mentally misrepresent or ignore the movie description and display a lack of genuine enthusiasm, signaling a complete disconnect and an ineffective critique. 2. Basic Reflection and Low Enthusiasm (\"2\"): Reviews that merely mention aspects of the movie description without depth and show only a low level of enthusiasm, resulting in a critique that lacks persuasive power and engagement. 3. Adequate Reflection and Moderate Enthusiasm (\"3\"): Reviews that reflect the movie description accurately and convey moderate enthusiasm, offering a fair and constructive critique that is neither overly zealous nor dispassionate. 4. Detailed Reflection and High Enthusiasm (\"4\"): Reviews that capture the nuances of the movie description in detail and exhibit high enthusiasm, present- ing a critique that is both engaging and substantively insightful. 5. Exceptional Reflection and Intense Enthusiasm (\"5\"): Reviews that deeply engage with the movie description, demonstrating both an exceptional level of reflection"
+  },
+  {
+    "0": "Initial Prompt (Mean rank: 4.4)",
+    "1": "Generate an authentic enthusiastic movie review for the following movie"
+  },
+  {
+    "0": "OPRO [35] (Mean rank: 4.3)",
+    "1": "Compose a compelling and positive movie review for a recent release, capturing the film's essence while highlighting unique elements that make it stand out."
+  },
+  {
+    "0": "PE [37] (Mean rank: 4.1)",
+    "1": "Create a movie review generator that articulates sophisticated genre-specific language while ensuring that advanced terminology is immediately followed by comprehensible explanations. This approach guarantees that the review remains accessible to a broad readership, including both seasoned cinephiles and those new to film criticism. The generator must offer an in-depth narrative analysis, employing narrative theory to enrich the commentary on the film's plot, character arcs, and thematic substance, all while maintaining an educational yet non-academic tone. It should craft reviews that exude excitement and provide an even-handed critique, spotlighting the film's artistic accomplishments as well as constructively addressing areas for improvement. The result should be an authoritative and engaging review that captures the essence of the movie with enthusiasm and critical precision, appealing to a wide spectrum of movie enthusiasts."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "0": "You are seeing the following: card 1, card 2, card 4. You press << J >> . You are"
+  },
+  {
+    "0": "wrong, the weather is rainy. You are seeing the following: card 1, card 2, card 4. You press << E >> . You are correct, the weather is indeed rainy."
+  },
+  {
+    "0": "You are seeing the following: card 3, card 4. You press << E >> . You are correct, the weather is indeed rainy. You are seeing the following: card 3, card 4. You press << E >> . You are correct, the"
+  },
+  {
+    "0": "weather is indeed rainy. You are seeing the following: card 1. You press << J >> . You are correct, the weather is indeed fine."
+  },
+  {
+    "0": "You are seeing the following: card 1, card 4. You press << J >> . You are correct, the weather is indeed fine."
+  },
+  {
+    "0": "You are seeing the following: card 4. You press << E >> . You are wrong, the weather is fine. << E >> . You are correct, the"
+  },
+  {
+    "0": "You are seeing the following: card 3, card 4. You press weather is indeed rainy."
+  },
+  {
+    "0": "You are seeing the following: card 1, card 2. You press << J >> . You are correct, the weather is indeed fine."
+  },
+  {
+    "0": "You are seeing the following: card 3, card 4. You press << E >> . You are correct, the weather is indeed rainy. You are seeing the following: card 2. You press << J >> . You are correct, the weather"
+  },
+  {
+    "0": "<< J >> . You are wrong, the"
+  },
+  {
+    "0": "You are seeing the following: card 1, card 4. You press weather is rainy. You are seeing the following: card 1, card 4. You press << J >> . You are correct, the"
+  },
+  {
+    "0": "weather is indeed fine. You are seeing the following: card 1. You press << J >> . You are correct, the weather"
+  },
+  {
+    "0": "You are seeing the following: card 1, card 3, card 4. You press << J >> . You are"
+  },
+  {
+    "0": "<< J >> . You are correct, the weather"
+  },
+  {
+    "0": "You are seeing the following: card 2. You press is indeed fine. You are seeing the following: card 1, card 2. You press << J >> . You are correct, the"
+  },
+  {
+    "0": "You are seeing the following: card 2, card 3, card 4. You press"
+  },
+  {
+    "0": "<< E >> . You are correct, the weather is indeed rainy. . You are correct, the weather"
+  },
+  {
+    "0": "You are seeing the following: card 3. You press << J >>"
+  },
+  {
+    "0": "You are seeing the following: card 1, card 2, card 3. You press << J >> . You are wrong, the weather is rainy."
+  },
+  {
+    "0": "You are seeing the following: card 3, card 4. You press << E >> . You are correct, the"
+  },
+  {
+    "0": "You are seeing the following: card 1, card 4. You press << J >> . You are wrong, the"
+  }
+]

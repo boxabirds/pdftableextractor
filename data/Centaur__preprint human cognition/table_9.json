@@ -1,0 +1,78 @@
+[
+  {
+    "0": "You go to casino 1. You can choose between machines F and I. You press and receive 0.0 points.",
+    "1": "<< F >>"
+  },
+  {
+    "0": "and receive 0.0 points.",
+    "1": "You go to casino 2. You can choose between machines L and J. You press << J >>"
+  },
+  {
+    "0": "You go to casino 2. You can choose between machines L and J. You press and receive 0.5 points.",
+    "1": "<< L >>"
+  },
+  {
+    "0": "You go to casino 3. You can choose between machines B and C. You press and receive 0.5 points.",
+    "1": "<< B >> You go to casino 3. You can choose between machines B and C. You press << B >>"
+  },
+  {
+    "0": "and receive 0.0 points. You go to casino 2. You can choose between machines L and J. You press",
+    "1": "<< L >>"
+  },
+  {
+    "0": "and receive 0.5 points. You go to casino 3. You can choose between machines B and C. You press",
+    "1": "<< C >>"
+  },
+  {
+    "0": "and receive 0.5 points. You go to casino 2. You can choose between machines L and J. You press",
+    "1": "<< L >>"
+  },
+  {
+    "0": "and receive 0.0 points. You go to casino 1. You can choose between machines F and I. You press",
+    "1": "<< I >>"
+  },
+  {
+    "0": "and receive 0.0 points.",
+    "1": "<< P >>"
+  },
+  {
+    "0": "You go to casino 4. You can choose between machines P and T. You press and receive 0.0 points.",
+    "1": "<< T >>"
+  },
+  {
+    "0": "You go to casino 4. You can choose between machines P and T. You press",
+    "1": "<< T >>"
+  },
+  {
+    "0": "and receive 0.5 points. You go to casino 4. You can choose between machines P and T. You press and receive 0.5 points.",
+    "1": "You go to casino 1. You can choose between machines F and I. You press << I >>"
+  },
+  {
+    "0": "You go to casino 4. You can choose between machines P and T. You press and receive 0.5 points.",
+    "1": "<< P >>"
+  },
+  {
+    "0": "You go to casino 3. You can choose between machines B and C. You press and receive 0.5 points.",
+    "1": "<< C >>"
+  },
+  {
+    "0": "You go to casino 2. You can choose between machines L and J. You press and receive 0.5 points.",
+    "1": "<< L >>"
+  },
+  {
+    "0": "You go to casino 3. You can choose between machines B and C. You press and receive 0.5 points.",
+    "1": "<< C >>"
+  },
+  {
+    "0": "You go to casino 4. You can choose between machines P and T. You press and receive 0.5 points.",
+    "1": "<< P >>"
+  },
+  {
+    "0": "You go to casino 3. You can choose between machines B and C. You press and receive 0.5 points.",
+    "1": "<< C >>"
+  },
+  {
+    "0": "You go to casino 4. You can choose between machines P and T. You press << and receive 0.5 point",
+    "1": "P >>"
+  }
+]

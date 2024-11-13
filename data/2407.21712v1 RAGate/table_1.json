@@ -1,0 +1,12 @@
+[
+  {
+    "Retrieval Models": "TF-IDF",
+    "Recall@1": "0.0227",
+    "Recall@3": "0.0871"
+  },
+  {
+    "Retrieval Models": "BERT-Ranker",
+    "Recall@1": "0.2475",
+    "Recall@3": "0.4714"
+  }
+]

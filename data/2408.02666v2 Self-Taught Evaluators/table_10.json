@@ -1,0 +1,42 @@
+[
+  {
+    "Model": "Llama-3-70B-Instruct (seed)",
+    "Overall": "75.4",
+    "Chat": "97.6",
+    "Chat Hard": "58.9",
+    "Safety": "69.2",
+    "Reasoning": "78.5"
+  },
+  {
+    "Model": "Self-Taught Evaluator, trained on synthetic data only",
+    "Overall": "Self-Taught Evaluator, trained on synthetic data only",
+    "Chat": "Self-Taught Evaluator, trained on synthetic data only",
+    "Chat Hard": "Self-Taught Evaluator, trained on synthetic data only",
+    "Safety": "Self-Taught Evaluator, trained on synthetic data only",
+    "Reasoning": "Self-Taught Evaluator, trained on synthetic data only"
+  },
+  {
+    "Model": "Mixtral judge Mixtral",
+    "Overall": "83.9",
+    "Chat": "98.3",
+    "Chat Hard": "69.0",
+    "Safety": "85.7",
+    "Reasoning": "82.6"
+  },
+  {
+    "Model": "Llama3.0 judge Llama3.0",
+    "Overall": "81.4",
+    "Chat": "97.2",
+    "Chat Hard": "66.0",
+    "Safety": "85.0",
+    "Reasoning": "77.5"
+  },
+  {
+    "Model": "Llama3.0 judge Mixtral",
+    "Overall": "80.0",
+    "Chat": "97.5",
+    "Chat Hard": "70.0",
+    "Safety": "72.8",
+    "Reasoning": "79.4"
+  }
+]

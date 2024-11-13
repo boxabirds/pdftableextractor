@@ -1,0 +1,92 @@
+[
+  {
+    "MODEL": "Reference",
+    "FAD$_{vgg}$ ↓": "-",
+    "KL ↓": "-",
+    "CLAP$_{sim}$ ↑": "-",
+    "OVL. ↑": "3.67 ± 0.10",
+    "REL. ↑": "4.04 ± 0.10",
+    "# STEPS": "-",
+    "LATENCY (S)": "-"
+  },
+  {
+    "MODEL": "AUDIOLDM 2",
+    "FAD$_{vgg}$ ↓": "3.1",
+    "KL ↓": "1 . 20",
+    "CLAP$_{sim}$ ↑": "0 . 31",
+    "OVL. ↑": "2.79 ± 0.08",
+    "REL. ↑": "3.40 ± 0.08",
+    "# STEPS": "208",
+    "LATENCY (S)": "18.1"
+  },
+  {
+    "MODEL": "MUSICGEN-small",
+    "FAD$_{vgg}$ ↓": "3.1",
+    "KL ↓": "1 . 29",
+    "CLAP$_{sim}$ ↑": "0 . 31",
+    "OVL. ↑": "-",
+    "REL. ↑": "-",
+    "# STEPS": "1500",
+    "LATENCY (S)": "17.6"
+  },
+  {
+    "MODEL": "MUSICGEN-medium",
+    "FAD$_{vgg}$ ↓": "3.4",
+    "KL ↓": "1 . 23",
+    "CLAP$_{sim}$ ↑": "0 . 32",
+    "OVL. ↑": "3.40 ± 0.08",
+    "REL. ↑": "3.79 ± 0.07",
+    "# STEPS": "1500",
+    "LATENCY (S)": "41.3"
+  },
+  {
+    "MODEL": "STABLE-AUDIO",
+    "FAD$_{vgg}$ ↓": "-",
+    "KL ↓": "-",
+    "CLAP$_{sim}$ ↑": "-",
+    "OVL. ↑": "3.67 ± 0.08",
+    "REL. ↑": "3.89 ± 0.07",
+    "# STEPS": "100",
+    "LATENCY (S)": "8.0"
+  },
+  {
+    "MODEL": "MAGNET-small",
+    "FAD$_{vgg}$ ↓": "3.3",
+    "KL ↓": "1 . 12",
+    "CLAP$_{sim}$ ↑": "0 . 31",
+    "OVL. ↑": "-",
+    "REL. ↑": "-",
+    "# STEPS": "180",
+    "LATENCY (S)": "4.0"
+  },
+  {
+    "MODEL": "MAGNET-large",
+    "FAD$_{vgg}$ ↓": "4.0",
+    "KL ↓": "1 . 15",
+    "CLAP$_{sim}$ ↑": "0 . 29",
+    "OVL. ↑": "-",
+    "REL. ↑": "-",
+    "# STEPS": "180",
+    "LATENCY (S)": "12.6"
+  },
+  {
+    "MODEL": "MELODYFLOW-small",
+    "FAD$_{vgg}$ ↓": "2.8",
+    "KL ↓": "1.27",
+    "CLAP$_{sim}$ ↑": "0.33",
+    "OVL. ↑": "3.27 ± 0.08",
+    "REL. ↑": "3.83 ± 0.08",
+    "# STEPS": "64",
+    "LATENCY (S)": "1.8"
+  },
+  {
+    "MODEL": "MELODYFLOW-medium",
+    "FAD$_{vgg}$ ↓": "3.5",
+    "KL ↓": "1.30",
+    "CLAP$_{sim}$ ↑": "0.31",
+    "OVL. ↑": "3.41 ± 0.08",
+    "REL. ↑": "3.77 ± 0.07",
+    "# STEPS": "64",
+    "LATENCY (S)": "2.3"
+  }
+]

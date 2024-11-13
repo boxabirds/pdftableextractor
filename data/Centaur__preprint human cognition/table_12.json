@@ -1,0 +1,83 @@
+[
+  {
+    "0": "You are presented with option B and option H. You press << B >> . You receive 1"
+  },
+  {
+    "0": "You are presented with options N and O. You press << O >> . You end up in state S."
+  },
+  {
+    "0": "You are presented with option G and option X. You press << X >> . You receive 1"
+  },
+  {
+    "0": "You are presented with option B and option H. You press << B >> . You receive 1 coins."
+  },
+  {
+    "0": "You are presented with options O and N. You press << N >> . You end up in state S. You are presented with option G and option X. You press << X >> . You receive 0"
+  },
+  {
+    "0": "You are presented with options O and N. You press << N >> . You end up in state C."
+  },
+  {
+    "0": "You are presented with options N and O. You press << O >> . You end up in state C."
+  },
+  {
+    "0": "You are presented with option B and option H. You press << H >> . You receive 1"
+  },
+  {
+    "0": "You are presented with options N and O. You press << O >> . You end up in state S."
+  },
+  {
+    "0": "You are presented with option G and option X. You press << G >> . You receive 0"
+  },
+  {
+    "0": "You are presented with option G and option X. You press << X >> . You receive 1"
+  },
+  {
+    "0": "You are presented with options N and O. You press << O >>"
+  },
+  {
+    "0": ". You end up in state C."
+  },
+  {
+    "0": "You are presented with option B and option H. You press << H >> . You receive 1"
+  },
+  {
+    "0": "You are presented with options O and N. You press << N >> . You end up in state S."
+  },
+  {
+    "0": "You are presented with options O and N. You press << N >> . You end up in state S."
+  },
+  {
+    "0": "You are presented with option G and option X. You press << G"
+  },
+  {
+    "0": ">> . You receive 0"
+  },
+  {
+    "0": "B >> . You receive 1"
+  },
+  {
+    "0": "You are presented with options N and O. You press << O >> . You end up in state C."
+  },
+  {
+    "0": "You are presented with option B and option H. You press << coins. You are presented with options O and N. You press"
+  },
+  {
+    "0": "<< N >> . You end up in state S."
+  },
+  {
+    "0": "You are presented with option G and option X. You press << X >> . You receive 1"
+  },
+  {
+    "0": "You are presented with options N and O. You press << O >> . You end up in state S."
+  },
+  {
+    "0": "You are presented with option G and option X. You press << X >> . You receive 1"
+  },
+  {
+    "0": "You are presented with options O and N. You press << N >> . You end up in state S."
+  },
+  {
+    "0": "You are presented with options O and N. You press << N >> . You end up in state S."
+  }
+]

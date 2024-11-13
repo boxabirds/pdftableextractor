@@ -1,0 +1,50 @@
+[
+  {
+    "Model": "Llama-3-70B-Instruct (seed)",
+    "Overall": "75.4",
+    "Chat": "97.6",
+    "Chat Hard": "58.9",
+    "Safety": "69.2",
+    "Reasoning": "78.5"
+  },
+  {
+    "Model": "Self-Taught Evaluator, trained on labeled HelpSteer2 preferences",
+    "Overall": "Self-Taught Evaluator, trained on labeled HelpSteer2 preferences",
+    "Chat": "Self-Taught Evaluator, trained on labeled HelpSteer2 preferences",
+    "Chat Hard": "Self-Taught Evaluator, trained on labeled HelpSteer2 preferences",
+    "Safety": "Self-Taught Evaluator, trained on labeled HelpSteer2 preferences",
+    "Reasoning": "Self-Taught Evaluator, trained on labeled HelpSteer2 preferences"
+  },
+  {
+    "Model": "Iteration 1",
+    "Overall": "85.6",
+    "Chat": "96.9",
+    "Chat Hard": "70.0",
+    "Safety": "88.8",
+    "Reasoning": "86.7"
+  },
+  {
+    "Model": "Iteration 2",
+    "Overall": "86.3",
+    "Chat": "96.1",
+    "Chat Hard": "72.4",
+    "Safety": "91.1",
+    "Reasoning": "85.7"
+  },
+  {
+    "Model": "Iteration 3",
+    "Overall": "87.0",
+    "Chat": "95.0",
+    "Chat Hard": "74.2",
+    "Safety": "91.2",
+    "Reasoning": "87.8"
+  },
+  {
+    "Model": "Iteration 4",
+    "Overall": "87.0",
+    "Chat": "94.1",
+    "Chat Hard": "77.2",
+    "Safety": "91.6",
+    "Reasoning": "85.1"
+  }
+]

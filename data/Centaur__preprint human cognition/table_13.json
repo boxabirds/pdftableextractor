@@ -1,0 +1,50 @@
+[
+  {
+    "0": "[16]",
+    "1": "Petroni, F. et al. Inui, K., Jiang, J., Ng, V. & Wan, X. (eds) Language models as knowledge bases? (eds Inui, K., Jiang, J., Ng, V. & Wan, X.) Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP- IJCNLP) , 2463-2473 (Association for Computational Linguistics, Hong Kong, China, 2019). URL https://aclanthology.org/D19-1250."
+  },
+  {
+    "0": "[17]",
+    "1": "Dettmers, T., Pagnoni, A., Holtzman, A. & Zettlemoyer, L. Qlora: Efficient fine- tuning of quantized llms. Advances in Neural Information Processing Systems 36 (2024)."
+  },
+  {
+    "0": "[18]",
+    "1": "Wu, C. M., Schulz, E., Speekenbrink, M., Nelson, J. D. & Meder, B. Generaliza- tion guides human exploration in vast decision spaces. Nature human behaviour 2 , 915-924 (2018)."
+  },
+  {
+    "0": "[19]",
+    "1": "Nosofsky, R. M. The generalized context model: An exemplar model of classification. Formal approaches in categorization 18-39 (2011)."
+  },
+  {
+    "0": "[20]",
+    "1": "Peterson, J. C., Bourgin, D. D., Agrawal, M., Reichman, D. & Griffiths, T. L. Using large-scale experiments and machine learning to discover theories of human decision-making. Science 372 , 1209-1214 (2021)."
+  },
+  {
+    "0": "[21]",
+    "1": "Daw, N. D., Gershman, S. J., Seymour, B., Dayan, P. & Dolan, R. J. Model- based influences on humans' choices and striatal prediction errors. Neuron 69 , 1204-1215 (2011)."
+  },
+  {
+    "0": "[22]",
+    "1": "Wilson, R. C., Geana, A., White, J. M., Ludvig, E. A. & Cohen, J. D. Humans use directed and random exploration to solve the explore-exploit dilemma. Journal of experimental psychology: General 143 , 2074 (2014)."
+  },
+  {
+    "0": "[23]",
+    "1": "Palminteri, S., Wyart, V. & Koechlin, E. The importance of falsification in computational cognitive modeling. Trends in cognitive sciences 21 , 425-433 (2017)."
+  },
+  {
+    "0": "[24]",
+    "1": "Feher da Silva, C. & Hare, T. A. Humans primarily use model-based inference in the two-stage task. Nature Human Behaviour 4 , 1053-1066 (2020)."
+  },
+  {
+    "0": "[25]",
+    "1": "Dubois, M. & Hauser, T. U. Value-free random exploration is linked to impulsivity. Nature Communications 13 , 4542 (2022)."
+  },
+  {
+    "0": "[26]",
+    "1": "Jansen, R. A., Rafferty, A. N. & Griffiths, T. L. A rational model of the dunning- kruger effect supports insensitivity to evidence in low performers. Nature Human Behaviour 5 , 756-763 (2021)."
+  },
+  {
+    "0": "[27]",
+    "1": "Kool, W., Cushman, F. A. & Gershman, S. J. When does model-based control pay off? PLoS computational biology 12 , e1005090 (2016)."
+  }
+]
