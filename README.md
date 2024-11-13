@@ -1,2 +1,2 @@
 # pdftableextractor
-Experiment looking at tech that can extract tables from PDFs reliably
+Experiment looking at tech that can extract tables from PDFs reliably using Docling. 
